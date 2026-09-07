@@ -257,7 +257,7 @@ const collections = [
     { title: '鄭永桐_56', img: 'images/A4+鄭永桐/鄭永桐_56.jpg' },
     { title: '鄭永桐_57', img: 'images/A4+鄭永桐/鄭永桐_57.jpg' }
   ] },
-  { title: '梁韻琛', folder: 'A5+梁韻琛', meta: '54 張校服作品', rating: 5, photos: [
+  { title: '梁韻琛', folder: 'A5+梁韻琛', meta: '54 張校服作品', rating: 5, cover: 'images/A5+梁韻琛/梁韻琛_11.jpg', photos: [
     { title: '梁韻琛_1', img: 'images/A5+梁韻琛/梁韻琛_1.jpg' },
     { title: '梁韻琛_2', img: 'images/A5+梁韻琛/梁韻琛_2.jpg' },
     { title: '梁韻琛_3', img: 'images/A5+梁韻琛/梁韻琛_3.jpg' },
